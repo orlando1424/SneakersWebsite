@@ -7,49 +7,98 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
     <!-- Font Awesome -->
-<link
-  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
-  rel="stylesheet"
-/>
-<!-- Google Fonts -->
-<link
-  href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
-  rel="stylesheet"
-/>
-<!-- MDB -->
-<link
-  href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.6.0/mdb.min.css"
-  rel="stylesheet"
-/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+          rel="stylesheet" />
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+          rel="stylesheet" />
+    <!-- MDB -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.6.0/mdb.min.css"
+          rel="stylesheet" />
     <link rel="stylesheet" href="/css/main.css" />
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <!--<nav class="main-navbar navbar navbar-expand-sm navbar-toggleable-sm navbar-light border-bottom box-shadow mb-3">
             <div class="container">
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Kicks'R'Us</a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                <button class="navbar-toggler text-black-50" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
-                    <ul class="navbar-nav flex-grow-1">
+                    <ul class="navbar-nav flex-grow-1">-->
                         @*<li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>*@
-                         <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            </li>*@
+                        <!--<li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Shoes" asp-action="Shoes">Shoes</a>
                         </li>
-                         <li class="nav-item">
+                        <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Contact" asp-action="Contact">Contact</a>
-                        </li>
+                        </li>-->
                         @*<li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>*@
-                    </ul>
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            </li>*@
+                    <!--</ul>
                 </div>
             </div>
-        </nav>
+        </nav>-->
+
+        <!-- Navbar -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <!-- Container wrapper -->
+  <div class="container-fluid">
+    <!-- Toggle button -->
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-mdb-toggle="collapse"
+      data-mdb-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <i class="fas fa-bars"></i>
+    </button>
+
+    <!-- Collapsible wrapper -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <!-- Navbar brand -->
+      <a class="navbar-brand mt-2 mt-lg-0" asp-action="Index" asp-controller="Home">
+        <img
+          src="/images/icon.png"
+          height="25"
+          alt=""
+          loading="lazy"
+        />
+      </a>
+      <!-- Left links -->
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link" asp-action="Shoes" asp-controller="Shoes">Shoes</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" asp-action="Contact" asp-controller="Contact">Contact</a>
+        </li>
+        
+      </ul>
+      <!-- Left links -->
+    </div>
+    <!-- Collapsible wrapper -->
+
+    <!-- Right elements -->
+    <div class="d-flex align-items-center">
+      <!-- Icon -->
+      <a class="text-reset me-3" href="#">
+        <i class="fas fa-shopping-cart"></i>
+      </a>
+    </div>
+    <!-- Right elements -->
+  </div>
+  <!-- Container wrapper -->
+</nav>
+<!-- Navbar -->
     </header>
     <div class="container">
         <main role="main" class="pb-3">
@@ -66,10 +115,8 @@
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     <!-- MDB -->
-<script
-  type="text/javascript"
-  src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.6.0/mdb.min.js"
-></script>
+    <script type="text/javascript"
+            src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.6.0/mdb.min.js"></script>
     @RenderSection("Scripts", required: false)
 </body>
 </html>
