@@ -5,8 +5,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Views\Contact\" />
     <Folder Include="wwwroot\images\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MailKit" Version="2.13.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
   </ItemGroup>
 
 </Project>

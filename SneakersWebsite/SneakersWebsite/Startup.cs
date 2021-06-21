@@ -8,6 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using SneakersWebsite.Models;
 
 namespace SneakersWebsite
 {
@@ -24,6 +25,23 @@ namespace SneakersWebsite
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+
+            EmailServerConfiguration config = new EmailServerConfiguration
+            {
+                SmtpPassword = "eaxiiqlcfulanscj",
+                SmtpServer = "smtp.gmail.com",
+                SmtpUsername = "lopezorlando23@gmail.com"
+            };
+
+            EmailAddress FromEmailAddress = new EmailAddress
+            {
+                Address = "lopezorlando23@gmail.com",
+                Name = "Orlando Lopez"
+            };
+
+            services.AddSingleton<EmailServerConfiguration>(config);
+            services.AddTransient<IEmailService, MailKitEmailService>();
+            services.AddSingleton<EmailAddress>(FromEmailAddress);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
