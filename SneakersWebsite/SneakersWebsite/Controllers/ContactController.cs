@@ -7,6 +7,8 @@ using SneakersWebsite.Models;
 
 namespace SneakersWebsite.Controllers
 {
+
+    //https://nickolasfisher.com/blog/How-To-Make-a-Basic-Working-Contact-Form-With-ASP-NET-Core-MVC-and-MailKit
     public class ContactController : Controller
     {
         private EmailAddress FromAndToEmailAddress;
