@@ -8,7 +8,7 @@ namespace SneakersWebsite.Controllers
 {
     public class ShoesController : Controller
     {
-        public IActionResult Index()
+        public IActionResult AllShoes()
         {
             return View();
         }

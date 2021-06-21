@@ -8,7 +8,6 @@ D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Deb
 D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\SneakersWebsite.pdb
 D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\SneakersWebsite.Views.dll
 D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\SneakersWebsite.Views.pdb
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.csprojAssemblyReference.cache
 D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.AssemblyInfoInputs.cache
 D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.AssemblyInfo.cs
 D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.csproj.CoreCompileInputs.cache
@@ -35,3 +34,5 @@ D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Deb
 D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.pdb
 D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.genruntimeconfig.cache
 D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.csproj.CopyComplete
+D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.csproj.AssemblyReference.cache
+D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shoes\AllShoes.cshtml.g.cs
