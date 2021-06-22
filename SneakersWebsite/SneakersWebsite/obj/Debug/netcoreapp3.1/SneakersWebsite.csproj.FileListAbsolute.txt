@@ -15,7 +15,6 @@ D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Deb
 D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.RazorAssemblyInfo.cache
 D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.RazorAssemblyInfo.cs
 D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\staticwebassets\SneakersWebsite.StaticWebAssets.Manifest.cache
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\staticwebassets\SneakersWebsite.StaticWebAssets.xml
 D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\scopedcss\bundle\SneakersWebsite.styles.css
 D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.TagHelpers.input.cache
 D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.TagHelpers.output.cache
@@ -114,3 +113,5 @@ D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Deb
 D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\MimeKit.dll
 D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
 D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Success.cshtml.g.cs
+D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\SneakersWebsite.StaticWebAssets.xml
+D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.GeneratedMSBuildEditorConfig.editorconfig
