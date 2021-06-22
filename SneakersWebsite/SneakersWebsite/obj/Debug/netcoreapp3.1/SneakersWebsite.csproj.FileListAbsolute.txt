@@ -113,5 +113,4 @@ D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Deb
 D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\MimeKit.dll
 D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
 D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Success.cshtml.g.cs
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\SneakersWebsite.StaticWebAssets.xml
 D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.GeneratedMSBuildEditorConfig.editorconfig
