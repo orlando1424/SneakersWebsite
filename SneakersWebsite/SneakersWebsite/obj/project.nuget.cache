@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Dtdo8xEHyVgDMyf2fncQJrh945tdJBSG4Ljq/Z7s+Hg+bE0CDlr8L3Oi3hXSB5LXKBy9jikyRMdQOgcjTzCaew==",
+  "dgSpecHash": "QgQa3MKwZIGB9UmZhS0YkyIVw0RlxZSlvtX5ThpPyFx88kAX5kEN1x3b3hwwzhzoc+CsAnKsce73oiRlKz7oDQ==",
   "success": true,
   "projectFilePath": "D:\\Repos\\SneakersWebsite\\SneakersWebsite\\SneakersWebsite\\SneakersWebsite\\SneakersWebsite.csproj",
   "expectedPackageFiles": [
@@ -114,7 +114,8 @@
     "C:\\Users\\Orlando\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\Orlando\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512"
   ],
   "logs": []
 }
