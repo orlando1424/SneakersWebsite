@@ -1,116 +1,231 @@
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\SneakersWebsite.exe
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\SneakersWebsite.deps.json
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\SneakersWebsite.runtimeconfig.json
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\SneakersWebsite.runtimeconfig.dev.json
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\SneakersWebsite.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\SneakersWebsite.pdb
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\SneakersWebsite.Views.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\SneakersWebsite.Views.pdb
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.AssemblyInfoInputs.cache
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.AssemblyInfo.cs
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.csproj.CoreCompileInputs.cache
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.MvcApplicationPartsAssemblyInfo.cache
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.RazorAssemblyInfo.cache
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.RazorAssemblyInfo.cs
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\staticwebassets\SneakersWebsite.StaticWebAssets.Manifest.cache
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\scopedcss\bundle\SneakersWebsite.styles.css
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.TagHelpers.input.cache
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.TagHelpers.output.cache
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.RazorCoreGenerate.cache
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.RazorTargetAssemblyInfo.cache
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.RazorTargetAssemblyInfo.cs
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.Views.pdb
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.pdb
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.genruntimeconfig.cache
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.csproj.CopyComplete
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.csproj.AssemblyReference.cache
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shoes\AllShoes.cshtml.g.cs
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Contact.cshtml.g.cs
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\MailKit.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\MimeKit.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Success.cshtml.g.cs
-D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.GeneratedMSBuildEditorConfig.editorconfig
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/appsettings.json
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/SneakersWebsite.exe
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/SneakersWebsite.deps.json
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/SneakersWebsite.runtimeconfig.json
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/SneakersWebsite.runtimeconfig.dev.json
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/SneakersWebsite.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/SneakersWebsite.pdb
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/SneakersWebsite.Views.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/SneakersWebsite.Views.pdb
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.AssemblyInfoInputs.cache
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.AssemblyInfo.cs
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.csproj.CoreCompileInputs.cache
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.MvcApplicationPartsAssemblyInfo.cache
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.RazorAssemblyInfo.cache
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.RazorAssemblyInfo.cs
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/staticwebassets/SneakersWebsite.StaticWebAssets.Manifest.cache
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/scopedcss/bundle/SneakersWebsite.styles.css
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.TagHelpers.input.cache
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.TagHelpers.output.cache
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.RazorCoreGenerate.cache
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.RazorTargetAssemblyInfo.cache
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.RazorTargetAssemblyInfo.cs
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.Views.pdb
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.pdb
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.genruntimeconfig.cache
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.csproj.CopyComplete
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.csproj.AssemblyReference.cache
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/Razor/Views/Shoes/AllShoes.cshtml.g.cs
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/Razor/Views/Contact/Contact.cshtml.g.cs
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/MailKit.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/MimeKit.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/Razor/Views/Contact/Success.cshtml.g.cs
+D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/SneakersWebsite.deps.json
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/SneakersWebsite.runtimeconfig.json
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/SneakersWebsite.runtimeconfig.dev.json
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/SneakersWebsite.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/SneakersWebsite.pdb
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/SneakersWebsite.Views.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/SneakersWebsite.Views.pdb
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/MailKit.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/MimeKit.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.csproj.AssemblyReference.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.AssemblyInfoInputs.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.AssemblyInfo.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.csproj.CoreCompileInputs.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.MvcApplicationPartsAssemblyInfo.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.RazorAssemblyInfo.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.RazorAssemblyInfo.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/staticwebassets/SneakersWebsite.StaticWebAssets.Manifest.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/staticwebassets/SneakersWebsite.StaticWebAssets.xml
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/scopedcss/bundle/SneakersWebsite.styles.css
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.TagHelpers.input.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.TagHelpers.output.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.RazorCoreGenerate.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/Razor/Views/Contact/Contact.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/Razor/Views/Contact/Success.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/Razor/Views/Shoes/AllShoes.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.RazorTargetAssemblyInfo.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.RazorTargetAssemblyInfo.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.Views.pdb
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.csproj.CopyComplete
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.pdb
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.genruntimeconfig.cache

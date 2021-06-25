@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F8DE2FE8-4D69-4AD4-95B6-80C24CAE0100}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SneakersWebsite/Views/Contact/Contact.cshtml">
+    <Files>
+      <File FileName="SneakersWebsite/Views/Contact/Contact.cshtml" Line="25" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SneakersWebsite" expanded="True">
+            <Node name="SneakersWebsite" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Contact" expanded="True">
+                  <Node name="Contact.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SneakersWebsite PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

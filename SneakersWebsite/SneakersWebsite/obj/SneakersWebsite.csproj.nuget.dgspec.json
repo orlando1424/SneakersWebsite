@@ -1,30 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repos\\SneakersWebsite\\SneakersWebsite\\SneakersWebsite\\SneakersWebsite\\SneakersWebsite.csproj": {}
+    "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite.csproj": {}
   },
   "projects": {
-    "D:\\Repos\\SneakersWebsite\\SneakersWebsite\\SneakersWebsite\\SneakersWebsite\\SneakersWebsite.csproj": {
+    "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repos\\SneakersWebsite\\SneakersWebsite\\SneakersWebsite\\SneakersWebsite\\SneakersWebsite.csproj",
+        "projectUniqueName": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite.csproj",
         "projectName": "SneakersWebsite",
-        "projectPath": "D:\\Repos\\SneakersWebsite\\SneakersWebsite\\SneakersWebsite\\SneakersWebsite\\SneakersWebsite.csproj",
-        "packagesPath": "C:\\Users\\Orlando\\.nuget\\packages\\",
-        "outputPath": "D:\\Repos\\SneakersWebsite\\SneakersWebsite\\SneakersWebsite\\SneakersWebsite\\obj\\",
+        "projectPath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite.csproj",
+        "packagesPath": "/Users/orlandolopez/.nuget/packages/",
+        "outputPath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Orlando\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/orlandolopez/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -62,12 +60,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.15, 3.1.15]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -76,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.5.21302.13\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
         }
       }
     }
