@@ -229,3 +229,4 @@ D:/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Deb
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.dll
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.pdb
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/SneakersWebsite.genruntimeconfig.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/SneakersWebsite/SneakersWebsite/SneakersWebsite/SneakersWebsite/obj/Debug/netcoreapp3.1/Razor/Views/ShoePages/AdidasHu.cshtml.g.cs

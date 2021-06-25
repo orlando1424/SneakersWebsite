@@ -1,17 +1,29 @@
 ﻿<Properties StartupConfiguration="{F8DE2FE8-4D69-4AD4-95B6-80C24CAE0100}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SneakersWebsite/Views/Contact/Contact.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SneakersWebsite/Views/ShoePages/AdidasHu.cshtml">
     <Files>
       <File FileName="SneakersWebsite/Views/Contact/Contact.cshtml" Line="25" Column="11" />
+      <File FileName="SneakersWebsite/Views/Shoes/AllShoes.cshtml" Line="19" Column="73" />
+      <File FileName="SneakersWebsite/Views/ShoePages/AdidasHu.cshtml" Line="17" Column="72" />
+      <File FileName="SneakersWebsite/Views/Shared/_Layout.cshtml" Line="16" Column="30" />
+      <File FileName="SneakersWebsite/Controllers/ShoesController.cs" Line="16" Column="9" />
+      <File FileName="SneakersWebsite/Controllers/ShoePagesController.cs" Line="23" Column="10" />
+      <File FileName="SneakersWebsite/wwwroot/css/main.css" Line="64" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SneakersWebsite" expanded="True">
             <Node name="SneakersWebsite" expanded="True">
+              <Node name="Controllers" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Contact" expanded="True">
-                  <Node name="Contact.cshtml" selected="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="ShoePages" expanded="True">
+                  <Node name="AdidasHu.cshtml" selected="True" />
                 </Node>
+                <Node name="Shoes" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
               </Node>
             </Node>
           </Node>

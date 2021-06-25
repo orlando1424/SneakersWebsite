@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\images\" />
+    <Folder Include="Views\ShoePages\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -13,4 +14,7 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="Views\ShoePages\" />
+  </ItemGroup>
 </Project>
