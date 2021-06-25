@@ -22,5 +22,40 @@ namespace SneakersWebsite.Controllers
         {
             return View();
         }
+
+        public IActionResult YeezyBeluga()
+        {
+            return View();
+        }
+
+        public IActionResult BredToe()
+        {
+            return View();
+        }
+
+        public IActionResult YeezyZebra()
+        {
+            return View();
+        }
+        public IActionResult UniversityBlue()
+        {
+            return View();
+        }
+
+        public IActionResult PineGreen()
+        {
+            return View();
+        }
+
+        public IActionResult RoyalToe()
+        {
+            return View();
+        }
+
+        public IActionResult JordanSb()
+        {
+            return View();
+        }
+
     }
 }

@@ -232,3 +232,11 @@ D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Deb
 D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.pdb
 D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.genruntimeconfig.cache
 D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ShoePages\BlazerMidSacai.cshtml.g.cs
+D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ShoePages\YeezyBeluga.cshtml.g.cs
+D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ShoePages\BredToe.cshtml.g.cs
+D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\SneakersWebsite.csproj.AssemblyReference.cache
+D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ShoePages\YeezyZebra.cshtml.g.cs
+D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ShoePages\UniversityBlue.cshtml.g.cs
+D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ShoePages\PineGreen.cshtml.g.cs
+D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ShoePages\RoyalToe.cshtml.g.cs
+D:\Repos\SneakersWebsite\SneakersWebsite\SneakersWebsite\SneakersWebsite\obj\Debug\netcoreapp3.1\Razor\Views\ShoePages\JordanSb.cshtml.g.cs
